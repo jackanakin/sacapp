@@ -15,3 +15,12 @@
 - [x] Typescript
 - [x] Sequelize + PostgreSQL
 - [x] CronJobs
+
+<h1 align="center">Result</h1>
+
+<img src="https://github.com/jackanakin/sacapp/blob/main/screenshots/HomeScreen.png" data-canonical-src="https://github.com/jackanakin/sacapp/blob/main/screenshots/HomeScreen.png" width="200" height="400" />
+<img src="https://github.com/jackanakin/sacapp/blob/main/screenshots/HomeScreenApiError.png" data-canonical-src="https://github.com/jackanakin/sacapp/blob/main/screenshots/HomeScreenApiError.png" width="200" height="400" />
+<img src="https://github.com/jackanakin/sacapp/blob/main/screenshots/HomeScreenLoading.png" data-canonical-src="https://github.com/jackanakin/sacapp/blob/main/screenshots/HomeScreenLoading.png" width="200" height="400" />
+<img src="https://github.com/jackanakin/sacapp/blob/main/screenshots/HomeScreenNetworkError.png" data-canonical-src="https://github.com/jackanakin/sacapp/blob/main/screenshots/HomeScreenNetworkError.png" width="200" height="400" />
+<img src="https://github.com/jackanakin/sacapp/blob/main/screenshots/ResetPasswordScreen.png" data-canonical-src="https://github.com/jackanakin/sacapp/blob/main/screenshots/ResetPasswordScreen.png" width="200" height="400" />
+<img src="https://github.com/jackanakin/sacapp/blob/main/screenshots/SignUpScreen.png" data-canonical-src="https://github.com/jackanakin/sacapp/blob/main/screenshots/SignUpScreen.png" width="200" height="400" />
