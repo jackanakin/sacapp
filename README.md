@@ -10,6 +10,7 @@
 - [x] Typescript
 
 <h1 align="center">NodeJS API</h1>
+
 - [x] Express
 - [x] Typescript
 - [x] Sequelize + PostgreSQL
