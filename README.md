@@ -2,15 +2,16 @@
 
 <p align="center">Sac App Prototype</a></p>
 
-<h1 align="center">React Native</h1>
+<h1 align="center">Mobile</h1>
 
-- [x] Android
+- [x] React Native
 - [x] Basic Authentication
 - [x] Context API
 - [x] Typescript
 
-<h1 align="center">NodeJS API</h1>
+<h1 align="center">Backend</h1>
 
+- [x] NodeJS
 - [x] Express
 - [x] Typescript
 - [x] Sequelize + PostgreSQL
